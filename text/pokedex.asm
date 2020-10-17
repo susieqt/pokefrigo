@@ -239,13 +239,13 @@ _ArbokDexEntry::
 	dex
 
 _PikachuDexEntry::
-	text "It keeps its tail"
-	next "raised to monitor"
-	next "its surroundings."
+	text "FRIGO is a #MON"
+	next "that came from"
+	next "space. It is"
 
-	page "If you yank its"
-	next "tail, it will try"
-	next "to bite you"
+	page "unknown how this"
+	next "#MON survived"
+	next "the landing."
 	dex
 
 _RaichuDexEntry::
@@ -509,23 +509,23 @@ _DugtrioDexEntry::
 	dex
 
 _MeowthDexEntry::
-	text "Appears to be more"
-	next "active at night."
-	next "It loves round"
+	text "This is a newly"
+	next "discovered"
+	next "#MON."
 
-	page "and shiny things."
-	next "It can't stop from"
-	next "picking them up"
+	page "No data is"
+	next "available at"
+	next "this time."
 	dex
 
 _PersianDexEntry::
-	text "The gem in its"
-	next "forehead glows on"
-	next "its own! It walks"
+	text "This is a newly"
+	next "discovered"
+	next "#MON."
 
-	page "with all the grace"
-	next "and elegance of a"
-	next "proud queen"
+	page "No data is"
+	next "available at"
+	next "this time."
 	dex
 
 _PsyduckDexEntry::
@@ -1318,13 +1318,13 @@ _DittoDexEntry::
 	dex
 
 _EeveeDexEntry::
-	text "Its genetic code"
-	next "is unstable, so it"
-	next "could evolve in"
+	text "This child claims"
+	next "to be FRIGO, but"
+	next "is vastly differ-"
 
-	page "a variety of ways."
-	next "There are only a"
-	next "few alive"
+	page "-ent to him. His"
+	next "true identity"
+	next "remains unknown."
 	dex
 
 _VaporeonDexEntry::
@@ -1428,33 +1428,33 @@ _SnorlaxDexEntry::
 	dex
 
 _ArticunoDexEntry::
-	text "A legendary bird"
-	next "#MON. It"
-	next "freezes water"
+	text "This is a newly"
+	next "discovered"
+	next "#MON."
 
-	page "that is contained"
-	next "in winter air and"
-	next "makes it snow"
+	page "No data is"
+	next "available at"
+	next "this time."
 	dex
 
 _ZapdosDexEntry::
 	text "This legendary"
-	next "bird #MON is"
+	next "nose #MON is"
 	next "said to appear"
 
-	page "when the sky turns"
-	next "dark and lightning"
-	next "showers down"
+	page "whenever you"
+	next "drop money, or"
+	next "use PAY DAY."
 	dex
 
 _MoltresDexEntry::
-	text "A legendary bird"
-	next "#MON. As it"
-	next "flaps its flaming"
+	text "A legendary WOOPY"
+	next "BOI. It is perf-"
+	next "-ect in every way"
 
-	page "wings, even the"
-	next "night sky will"
-	next "turn red"
+	page "It is BEYTAH,"
+	next "so it is"
+	next "BETTAH!"
 	dex
 
 _DratiniDexEntry::
@@ -1488,13 +1488,13 @@ _DragoniteDexEntry::
 	dex
 
 _MewtwoDexEntry::
-	text "Its DNA is almost"
-	next "the same as MEW's."
-	next "However, its size"
+	text "This #MON"
+	next "deeply upsets"
+	next "tourists from"
 
-	page "and disposition"
-	next "are vastly dif-"
-	next "ferent"
+	page "REDDIT and"
+	next "TWITTER."
+	next "VASH hates it."
 	dex
 
 _MewDexEntry::

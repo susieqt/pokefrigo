@@ -20,12 +20,12 @@ PikachuCry3::
 	pcm INCBIN "audio/pikachu_cries/pikachu_cry_3.pcm"
 	db $03 ; unused
 
+
+SECTION "Pikachu Cries 2", ROMX ; BANK $22
+
 PikachuCry4::
 	pcm INCBIN "audio/pikachu_cries/pikachu_cry_4.pcm"
 	db $e0 ; unused
-
-
-SECTION "Pikachu Cries 2", ROMX ; BANK $22
 
 PikachuCry5::
 	pcm INCBIN "audio/pikachu_cries/pikachu_cry_5.pcm"
@@ -35,12 +35,12 @@ PikachuCry6::
 	pcm INCBIN "audio/pikachu_cries/pikachu_cry_6.pcm"
 	db $77 ; unused
 
+
+SECTION "Pikachu Cries 3", ROMX ; BANK $23
+
 PikachuCry7::
 	pcm INCBIN "audio/pikachu_cries/pikachu_cry_7.pcm"
 	db $ff ; unused
-
-
-SECTION "Pikachu Cries 3", ROMX ; BANK $23
 
 PikachuCry8::
 	pcm INCBIN "audio/pikachu_cries/pikachu_cry_8.pcm"
@@ -50,12 +50,12 @@ PikachuCry9::
 	pcm INCBIN "audio/pikachu_cries/pikachu_cry_9.pcm"
 	db $f3 ; unused
 
+
+SECTION "Pikachu Cries 4", ROMX ; BANK $24
+
 PikachuCry10::
 	pcm INCBIN "audio/pikachu_cries/pikachu_cry_10.pcm"
 	db $ff ; unused
-
-
-SECTION "Pikachu Cries 4", ROMX ; BANK $24
 
 PikachuCry11::
 	pcm INCBIN "audio/pikachu_cries/pikachu_cry_11.pcm"
@@ -64,10 +64,6 @@ PikachuCry11::
 PikachuCry12::
 	pcm INCBIN "audio/pikachu_cries/pikachu_cry_12.pcm"
 	db $ff ; unused
-
-PikachuCry13::
-	pcm INCBIN "audio/pikachu_cries/pikachu_cry_13.pcm"
-	db $f0 ; unused
 
 
 SECTION "Pikachu Cries 5", ROMX ; BANK $25
@@ -79,6 +75,10 @@ PikachuCry14::
 PikachuCry15::
 	pcm INCBIN "audio/pikachu_cries/pikachu_cry_15.pcm"
 	db $77 ; unused
+	
+PikachuCry30::
+	pcm INCBIN "audio/pikachu_cries/pikachu_cry_30.pcm"
+	db $00 ; unused
 
 SECTION "Pikachu Cries 6", ROMX ; BANK $31
 
@@ -105,6 +105,9 @@ PikachuCry21::
 	pcm INCBIN "audio/pikachu_cries/pikachu_cry_21.pcm"
 	db $ff ; unused
 
+PikachuCry31::
+	pcm INCBIN "audio/pikachu_cries/pikachu_cry_31.pcm"
+	db $00 ; unused
 
 SECTION "Pikachu Cries 8", ROMX ; BANK $33
 
@@ -149,14 +152,6 @@ PikachuCry29::
 	pcm INCBIN "audio/pikachu_cries/pikachu_cry_29.pcm"
 	db $87 ; unused
 
-PikachuCry30::
-	pcm INCBIN "audio/pikachu_cries/pikachu_cry_30.pcm"
-	db $00 ; unused
-
-PikachuCry31::
-	pcm INCBIN "audio/pikachu_cries/pikachu_cry_31.pcm"
-	db $00 ; unused
-
 SECTION "Pikachu Cries 11", ROMX ; BANK $36
 
 PikachuCry32::
@@ -171,10 +166,6 @@ PikachuCry34::
 	pcm INCBIN "audio/pikachu_cries/pikachu_cry_34.pcm"
 	db $01 ; unused
 
-PikachuCry41::
-	pcm INCBIN "audio/pikachu_cries/pikachu_cry_41.pcm"
-	db $9b ; unused
-
 
 SECTION "Pikachu Cries 12", ROMX ; BANK $37
 
@@ -186,10 +177,9 @@ PikachuCry36::
 	pcm INCBIN "audio/pikachu_cries/pikachu_cry_36.pcm"
 	db $01 ; unused
 
-PikachuCry39::
-	pcm INCBIN "audio/pikachu_cries/pikachu_cry_39.pcm"
-	db $0f ; unused
-
+PikachuCry13::
+	pcm INCBIN "audio/pikachu_cries/pikachu_cry_13.pcm"
+	db $f0 ; unused
 
 SECTION "Pikachu Cries 13", ROMX ; BANK $38
 
@@ -205,6 +195,17 @@ PikachuCry40::
 	pcm INCBIN "audio/pikachu_cries/pikachu_cry_40.pcm"
 	db $ff ; unused
 
+SECTION "Pikachu Cries 14", ROMX
+
+PikachuCry41::
+	pcm INCBIN "audio/pikachu_cries/pikachu_cry_41.pcm"
+	db $9b ; unused
+	
+PikachuCry39::
+	pcm INCBIN "audio/pikachu_cries/pikachu_cry_39.pcm"
+	db $0f ; unused
+	
 PikachuCry42::
 	pcm INCBIN "audio/pikachu_cries/pikachu_cry_42.pcm"
 	db $00 ; unused
+	

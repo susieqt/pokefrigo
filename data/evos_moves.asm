@@ -989,27 +989,41 @@ MoltresEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 51, LEER
-	db 55, AGILITY
-	db 60, SKY_ATTACK
+	db 25, DIG
+	db 40, WATER_GUN
+	db 45, BONEMERANG
+	db 51, BODY_SLAM
+	db 56, AMNESIA
+	db 61, HYDRO_PUMP
 	db 0
 
 ArticunoEvosMoves:
 ; Evolutions
+	db EV_LEVEL, 30, MEOWTH
 	db 0
 ; Learnset
-	db 51, BLIZZARD
-	db 55, AGILITY
-	db 60, MIST
+	db 8, DIG
+	db 15, SCREECH
+	db 22, ROCK_SLIDE
+	db 29, THRASH
+	db 36, GLARE
+	db 43, SKULL_BASH
+	db 50, EARTHQUAKE
+	db 57, HYPER_BEAM
 	db 0
 
 ZapdosEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 51, THUNDER
-	db 55, AGILITY
-	db 60, LIGHT_SCREEN
+	db 25, THUNDER_WAVE
+	db 31, ROCK_THROW
+	db 37, TOXIC
+	db 43, FLAMETHROWER
+	db 55, EARTHQUAKE
+	db 61, THUNDER
+	db 69, AMNESIA
+	db 75, EXPLOSION
 	db 0
 
 DittoEvosMoves:
@@ -1020,14 +1034,17 @@ DittoEvosMoves:
 
 MeowthEvosMoves:
 ; Evolutions
-	db EV_LEVEL, 28, PERSIAN
+	db EV_LEVEL, 50, PERSIAN
 	db 0
 ; Learnset
-	db 12, BITE
-	db 17, PAY_DAY
-	db 24, SCREECH
-	db 33, FURY_SWIPES
-	db 44, SLASH
+	db 8, DIG
+	db 15, SCREECH
+	db 22, ROCK_SLIDE
+	db 29, THRASH
+	db 38, GLARE
+	db 47, SKULL_BASH
+	db 56, EARTHQUAKE
+	db 65, HYPER_BEAM
 	db 0
 
 KrabbyEvosMoves:
@@ -1083,15 +1100,15 @@ PikachuEvosMoves:
 	db EV_ITEM, THUNDER_STONE, 1, RAICHU
 	db 0
 ; Learnset
-	db 6, TAIL_WHIP
-	db 8, THUNDER_WAVE
-	db 11, QUICK_ATTACK
-	db 15, DOUBLE_TEAM
-	db 20, SLAM
-	db 26, THUNDERBOLT
-	db 33, AGILITY
-	db 41, THUNDER
-	db 50, LIGHT_SCREEN
+	db 16, CONFUSION
+	db 20, DISABLE
+	db 27, PSYBEAM
+	db 31, ICE_PUNCH
+	db 38, PSYCHIC_M
+	db 42, REFLECT
+	db 51, BLIZZARD
+	db 55, AGILITY
+	db 60, MIST
 	db 0
 
 RaichuEvosMoves:
@@ -1258,17 +1275,14 @@ WigglytuffEvosMoves:
 
 EeveeEvosMoves:
 ; Evolutions
-	db EV_ITEM, FIRE_STONE, 1, FLAREON
-	db EV_ITEM, THUNDER_STONE, 1, JOLTEON
-	db EV_ITEM, WATER_STONE, 1, VAPOREON
 	db 0
 ; Learnset
 	db 8, SAND_ATTACK
-	db 16, GROWL
+	db 16, SCREECH
 	db 23, QUICK_ATTACK
-	db 30, BITE
-	db 36, FOCUS_ENERGY
-	db 42, TAKE_DOWN
+	db 30, ICE_PUNCH
+	db 36, FIRE_PUNCH
+	db 42, THUNDERPUNCH
 	db 0
 
 FlareonEvosMoves:
@@ -1574,7 +1588,7 @@ MewtwoEvosMoves:
 	db 63, BARRIER
 	db 66, PSYCHIC_M
 	db 70, RECOVER
-	db 75, MIST
+	db 75, HYDRO_PUMP
 	db 81, AMNESIA
 	db 0
 
@@ -1682,11 +1696,14 @@ PersianEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 12, BITE
-	db 17, PAY_DAY
-	db 24, SCREECH
-	db 37, FURY_SWIPES
-	db 51, SLASH
+	db 8, DIG
+	db 15, SCREECH
+	db 22, ROCK_SLIDE
+	db 29, THRASH
+	db 38, GLARE
+	db 47, SKULL_BASH
+	db 61, EARTHQUAKE
+	db 75, HYPER_BEAM
 	db 0
 
 MarowakEvosMoves:

@@ -364,9 +364,9 @@ ArbokDexEntry:
 	db "@"
 
 PikachuDexEntry:
-	db "MOUSE@"
-	db 1,4
-	dw 130
+	db "FREEZE@"
+	db 5,7
+	dw 1220
 	TX_FAR _PikachuDexEntry
 	db "@"
 

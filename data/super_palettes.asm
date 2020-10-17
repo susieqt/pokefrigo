@@ -66,10 +66,10 @@ SuperPalettes:
 	RGB  6,  6,  6
 
 	; PAL_SAFFRON
-	RGB 31, 31, 30
-	RGB 31, 31, 19
-	RGB 23, 27, 31
-	RGB  6,  6,  6
+	RGB 31, 31, 31
+	RGB 18, 18, 24
+	RGB 11, 23, 31
+	RGB  3,  3,  3
 
 	; PAL_TOWNMAP
 	RGB 31, 31, 30
@@ -96,9 +96,9 @@ SuperPalettes:
 	RGB  3,  2,  2
 
 	; PAL_MEWMON
-	RGB 31, 31, 30
-	RGB 31, 30, 22
-	RGB 27, 16, 16
+	RGB 31, 31, 31
+	RGB 18, 18, 24
+	RGB 21, 00, 04
 	RGB  6,  6,  6
 
 	; PAL_BLUEMON
@@ -145,8 +145,8 @@ SuperPalettes:
 
 	; PAL_YELLOWMON
 	RGB 31, 31, 30
-	RGB 31, 31, 19
-	RGB 28, 23,  9
+	RGB 26, 28, 31
+	RGB  7, 24, 28
 	RGB  6,  6,  6
 
 	; PAL_GREYMON
@@ -223,7 +223,7 @@ SuperPalettes:
 
 	; PAL_25
 	RGB 31, 31, 30
-	RGB 31, 30, 22
+	RGB 18, 18, 24
 	RGB 23, 27, 31
 	RGB  6,  6,  6
 
@@ -308,7 +308,7 @@ GBCBasePalettes:
 
 	; PAL_SAFFRON
 	RGB 31, 31, 31
-	RGB 31, 31,  0
+	RGB 18, 18, 24
 	RGB 11, 23, 31
 	RGB  3,  3,  3
 
@@ -338,8 +338,8 @@ GBCBasePalettes:
 
 	; PAL_MEWMON
 	RGB 31, 31, 31
-	RGB 31, 31,  0
-	RGB 31,  1,  1
+	RGB 18, 18, 24
+	RGB 21, 00, 04
 	RGB  3,  3,  3
 
 	; PAL_BLUEMON
@@ -386,8 +386,8 @@ GBCBasePalettes:
 
 	; PAL_YELLOWMON
 	RGB 31, 31, 31
-	RGB 31, 31,  0
-	RGB 28, 14,  0
+	RGB 16, 26, 31
+	RGB  0, 17, 31
 	RGB  3,  3,  3
 
 	; PAL_GREYMON
@@ -464,7 +464,7 @@ GBCBasePalettes:
 
 	; PAL_25
 	RGB 31, 31, 31
-	RGB 31, 31,  0
+	RGB 18, 18, 24
 	RGB 11, 23, 31
 	RGB  3,  3,  3
 
