@@ -1,7 +1,7 @@
 _SurfinDudeText1::
 	text "Whoa!"
 
-	para "Your PIKACHU knows"
+	para "Your FRIGO knows"
 	line "how to SURF! So,"
 	cont "I'm not alone..."
 
@@ -27,7 +27,8 @@ _SurfinDudeText4::
 	done
 
 _BeachHousePikachuText::
-	text "PIKACHU: Pikaa"
+	text "FRIGO: LET'S"
+	line "FRIGOOOOOOOOOOOO"
 	done
 
 _BeachHouseSign1Text1::

@@ -299,7 +299,9 @@ ROMX $3A
 	org $4000
 	"bank3A"
 
-; bank $3b is empty
+ROMX $3B
+	org $4000
+	"Pikachu Cries 14"
 
 ROMX $3C
 	org $4000
