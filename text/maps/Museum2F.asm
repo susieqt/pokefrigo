@@ -21,7 +21,7 @@ _Museum2FText3::
 	done
 
 _Museum2FText4::
-	text "I want a FRIGO!"
+	text "I want a PIKACHU!"
 	line "It's so cute!"
 
 	para "I asked my Daddy"
@@ -29,22 +29,20 @@ _Museum2FText4::
 	done
 
 _Museum2FText5::
-	text "No honey, we"
-	line "already have a"
-	cont "FRIGO at home,"
-	cont "don't we?"
+	text "Yeah, a PIKACHU"
+	line "soon, I promise!"
 	done
 
 _Museum2FPikachuText1::
-	text "Your FRIGO looks"
+	text "Your PIKACHU looks"
 	line "untamed."
-	cont "Want to trade it"
-	cont "for this FIREGO?"
+	cont "May I have it for"
+	cont "my daughter?"
 	done
 
 _Museum2FPikachuText2::
 	text "I'd like to get"
-	line "that FRIGO off"
+	line "that PIKACHU off"
 	cont "you, but it's too"
 	cont "attached to you."
 	done

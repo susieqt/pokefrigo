@@ -64,7 +64,7 @@ _ViridianFrstAfterBattleText3::
 
 _ViridianForestBattleTextPikaGirl::
 	text "Hi, do you have a"
-	line "FRIGO?"
+	line "PIKACHU?"
 	done
 
 _ViridianForestEndBattleTextPikaGirl::
@@ -73,9 +73,9 @@ _ViridianForestEndBattleTextPikaGirl::
 	prompt
 
 _ViridianForestAfterBattleTextPikaGirl::
-	text "Where did you"
-	line "even find a"
-	cont "FRIGO, anyway?"
+	text "I looked forever,"
+	line "but I never found"
+	cont "a PIKACHU here!"
 	done
 
 _ViridianForestBattleTextSamurai::
